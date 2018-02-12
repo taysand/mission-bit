@@ -1,0 +1,27 @@
+p {
+    font-size: 25px;
+}
+
+.red {
+    color: red;
+}
+
+#important {
+    font-style: italic;
+    font-size: 30px;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 40px;
+    text-align: center;
+}
+
+.blue-background {
+    background-color: blue;
+    color: white;
+}
+
+img {
+    height: 500px;
+}
