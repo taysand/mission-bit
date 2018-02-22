@@ -1,24 +1,25 @@
+body{
+background-image: url(/Pirate%20Chest/captians_quarters.jpg);
+    background-repeat: no-repeat;
+    background-position: top left;
+    margin-right: 200px;  
+}
+
 div.left {
     position:relative;
-    top:150px;
+    top:156px;
     position:relative;
     left: -200px;
 }
 
-div.center {
-    top:150px;
-    position:relative;
-    left: 0px;
-}
-
 div.right {
     position:relative;
-    top: 150px;
+    top:0px;
     position:relative;
     right: 200px;
 }
 
-body {
-    background-color: tan;
-    color: saddlebrown;
+a{color: white;
+    font-family: fantasy;
+    font-size: 30px;
 }
